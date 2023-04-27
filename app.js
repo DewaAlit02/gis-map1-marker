@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 var myIcon = L.icon({
-  iconUrl: 'icoon.png',
+  iconUrl: 'stadion.jpg',
   iconSize: [45, 45],
   iconAnchor: [20, 40],
 });
